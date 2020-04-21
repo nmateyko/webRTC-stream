@@ -1,6 +1,6 @@
 # Realtime communication with WebRTC
 
-Go to "stream-video."\
+Go to "stream-video" folder \
 Run `npm install` before running the code.\
 `node index.js` to run code.\
 Open http://localhost:8080/ in one tab.\
